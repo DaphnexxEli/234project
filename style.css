@@ -32,21 +32,6 @@ body {
     padding-bottom: 0.5%;
 }
 
-.info {
-    text-align: center;
-    padding: 3% 7% 3% 7%;
-    font-size: 1.5rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.info2 {
-    text-align: left;
-    padding-top: 2%;
-    font-size: 1.5rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    line-height: 2;
-}
-
 .row {
     padding-top: 2%;
 }
